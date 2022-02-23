@@ -17,7 +17,7 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR args,int ncmdshow
    {
       
       //r_msgBox("Fatal error","Not enough vespene gaz");
-      r_print("va chier criss de cave");
+      r_print("test");
 
    }
    else
